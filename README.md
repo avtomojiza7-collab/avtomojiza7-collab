@@ -1,5 +1,5 @@
 <!-- <p align="center">
-  <img src="name-animation.gif" width="890" alt="Umar's Animation">
+  <img src="name-animation.gif" width="890" alt="Umar's Animation"> 
 </p> -->
 
 <p align="center">
